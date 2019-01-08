@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Nexa';
+    src: url('../fonts/NexaBold.eot');
+    src: url('../fonts/NexaBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NexaBold.woff2') format('woff2'),
+        url('../fonts/NexaBold.woff') format('woff'),
+        url('../fonts/NexaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('../fonts/NexaLight.eot');
+    src: url('../fonts/NexaLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NexaLight.woff2') format('woff2'),
+        url('../fonts/NexaLight.woff') format('woff'),
+        url('../fonts/NexaLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../fonts/CenturyGothic.eot');
+    src: url('../fonts/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CenturyGothic.woff2') format('woff2'),
+        url('../fonts/CenturyGothic.woff') format('woff'),
+        url('../fonts/CenturyGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
