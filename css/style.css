@@ -41,7 +41,7 @@ body {
   font-family: Nexa, sans-serif;
 }
 .link.portfolio {
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 .main{
@@ -65,7 +65,7 @@ body {
 .main .picture {
   grid-area: image;
   width: 100%;
-  max-width: 280px;
+  /* max-width: 280px; */
   overflow: hidden;
   filter: drop-shadow(-5px -5px 10px #999);
 }
