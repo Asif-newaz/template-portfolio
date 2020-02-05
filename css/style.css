@@ -40,6 +40,10 @@ body {
   font-weight: 300;
   font-family: Nexa, sans-serif;
 }
+
+.link:hover {
+  font-weight: bold;
+}
 .link.portfolio {
   /* font-weight: bold; */
 }
