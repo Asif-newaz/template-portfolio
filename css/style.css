@@ -44,9 +44,6 @@ body {
 .link:hover {
   font-weight: bold;
 }
-.link.portfolio {
-  /* font-weight: bold; */
-}
 
 .main{
   grid-area: main;
