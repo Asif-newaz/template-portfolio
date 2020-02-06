@@ -55,7 +55,7 @@ body {
   grid-template-areas:
     "main image"
     "social social";
-  padding: 15% 10px 0 10px;
+  padding: 10% 10px 0 10px;
 }
 
 .main .info {
@@ -115,6 +115,10 @@ body {
   outline: none;
   font-weight: 900;
   padding: 15px 35px;
+}
+
+.cta:hover {
+  background-color: #19111d;
 }
 
 .socials i {
