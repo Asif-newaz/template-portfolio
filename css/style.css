@@ -202,3 +202,26 @@ body {
     margin: 0;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .main {
+    grid-template-rows: 40% 40% 29%;
+  }
+
+  .sidebar .link {
+    font-weight: bold;
+  }
+
+  .main .job {
+    font-weight: bold;
+  }
+
+  .main .picture {
+    margin-top: 25px;
+  }
+
+  .picture img {
+    height: 100%;
+    border-radius: unset;
+  }
+}
